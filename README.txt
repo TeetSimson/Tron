@@ -1,10 +1,11 @@
 T R O N 
 -by Teet Simson 2020
 
-The basic game is in Linux folder!
+The game Tron.exe is in Tron (Windows) folder!
 
-I made another version for Windows since Python supports sound only
-for windows without installing extra modules!
+Fixed resolution 1920x1080
+Another versions need Python to run. 
+Python supports sound only for windows without installing extra modules!
 
 Fullscreen mode is also os dependent
 
@@ -21,7 +22,7 @@ Important key points
 - Leaderboard does not show your time if it is slower than 1.99 seconds
   or any other top 5 time
 
-- Use "b" key in case your boss comes
+- Use "b" key in case your boss comes (only works on Linux right now)
 
 - Try not to pause the game or it gets angry at you and does not want to
   close as fast as usual
